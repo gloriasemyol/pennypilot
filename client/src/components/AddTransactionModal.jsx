@@ -61,7 +61,7 @@ export default function AddTransactionModal({ open, onClose }) {
             animate={{ scale: 1, y: 0 }}
             exit={{ scale: 0.9, y: 20 }}
             onClick={(e) => e.stopPropagation()}
-            className="glass w-full max-w-md bg-[#111936]/90 p-6"
+            className="glass max-h-[90vh] w-full max-w-md overflow-y-auto bg-[#111936]/90 p-6"
           >
             <div className="mb-5 flex items-center justify-between">
               <h2 className="text-xl font-bold text-white">Add transaction</h2>
