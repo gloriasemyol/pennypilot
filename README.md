@@ -7,16 +7,6 @@ Your money's co-pilot. A full-stack MERN app to track income and expenses, set a
 
 > ⏳ The backend runs on a free Render plan, so the first request after inactivity can take ~30–60 seconds to wake up.
 
-## 📸 Screenshots
-
-| Dashboard | Mobile |
-|---|---|
-| ![Dashboard](screenshots/dashboard.png) | ![Mobile](screenshots/mobile.png) |
-
-| Transactions | Login |
-|---|---|
-| ![Transactions](screenshots/transactions.png) | ![Login](screenshots/login.png) |
-
 ## ✨ Features
 
 - 🔐 Secure registration and login with JWT and bcrypt-hashed passwords
